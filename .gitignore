@@ -1,0 +1,6 @@
+*.dat
+results/ 
+
+#Virtual Environments
+venv/
+.venv/
